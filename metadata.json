@@ -1,0 +1,5 @@
+{
+  "name": "Image-to-ASCII Studio",
+  "description": "Convert images into ASCII art with custom character sets.",
+  "requestFramePermissions": []
+}
