@@ -9,14 +9,14 @@ Website: https://image-to-ascii-studio.onrender.com/
 - **Multilingual Support**: Choose from various language-specific character sets.
 - **High-Resolution Output**: Generate detailed ASCII art suitable for sharing or printing.
 - **Modern UI**: A responsive, neon-themed interface with glassmorphism effects.
-- **Privacy First**: All processing happens locally in your browser; your images are never uploaded to a server.
+- **Privacy First**: All processing happens locally in the browser; your images are never uploaded to any server.
 
 ## 🛠 Customization Options
 
 ### 1. Character Set Selection
 Tailor the "texture" of your ASCII art by choosing specific character sets:
 - **Language Presets**: English, Chinese, Japanese, Korean, German, French, and Russian.
-- **Custom Input**: Use a specific date, month, or any custom text to form the image.
+- **Custom Input**: Use a specific date, month that is special for you or any custom text to form the image.
 - **Complexity Toggle**: 
     - **Simple**: Uses a minimal, high-contrast set of characters for a clean look.
     - **Complex**: Uses a wide range of characters and symbols for maximum detail.
@@ -30,7 +30,7 @@ Tailor the "texture" of your ASCII art by choosing specific character sets:
     - **Colored**: Preserves the original colors of the image for each character.
     - **Monochrome**: Classic black-and-white (or white-on-black) ASCII look.
 - **Background**: Toggle between **Dark** (Slate/Black) and **Light** (White) backgrounds.
-- **Resolution (Columns)**: Adjust the density of characters from 50 to 300 columns to control the level of detail.
+- **Resolution (Columns)**: Adjust the density of characters from 50 to 300 columns to control the level of detail that you desire.
 
 ## 📥 Export Options
 
@@ -42,7 +42,7 @@ Tailor the "texture" of your ASCII art by choosing specific character sets:
 - **Frontend**: React.js with TypeScript
 - **Styling**: Tailwind CSS (Neon/Modern theme)
 - **Icons**: Lucide React
-- **Processing**: HTML5 Canvas API (Client-side)
+- **Processing**: HTML5 Canvas
 
 ---
 *Created with Image-to-ASCII Studio - Turning pixels into poetry.*
